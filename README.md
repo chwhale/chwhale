@@ -13,3 +13,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "I'm studying in a senior high school"
 -->...
+
+I am eager to learn on GitHub and contribute my part to this community!
